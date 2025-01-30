@@ -36,7 +36,7 @@ The **Main.java** file contains code to measure the performance of the sorting a
 
 1. **Compile the Code**: Use the following command to compile all the Java files: ```javac *.java```
 
-2. **Run the Main Program**: Use the following command to run the main program:```java Main```
+2. **Run the Main Program**: Use the following command to run the main program: ```java Main```
 
 3. **Output**: The program will output the average time taken by each algorithm for different array sizes.
 
