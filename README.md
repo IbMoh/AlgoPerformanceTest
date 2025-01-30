@@ -3,7 +3,7 @@
 
 This lab focuses on implementing and comparing various sorting and searching algorithms. The primary algorithms implemented include:
 
-* **Binary Search***: A fast search algorithm that works on sorted arrays.
+* **Binary Search**: A fast search algorithm that works on sorted arrays.
 
 * **Insertion Sort**: A simple sorting algorithm that builds the final sorted array one item at a time.
 
